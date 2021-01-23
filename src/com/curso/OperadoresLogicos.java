@@ -9,5 +9,7 @@ public class OperadoresLogicos {
         boolean r;
         r = (x<y && y==z) ? true:false;
         System.out.println(r);
+        double num = Math.pow(8,2);
+        System.out.println(num);
     }
 }

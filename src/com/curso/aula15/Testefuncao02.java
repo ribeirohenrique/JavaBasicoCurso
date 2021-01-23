@@ -1,4 +1,4 @@
-package com.curso;
+package com.curso.aula15;
 
 public class Testefuncao02 {
     public static void main(String[] args) {

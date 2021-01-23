@@ -1,4 +1,4 @@
-package com.curso;
+package com.curso.aula15;
 
 public class Operacoes {
     public static String contador (int i, int f){
